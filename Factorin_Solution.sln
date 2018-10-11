@@ -7,6 +7,17 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DirectoryObserver", "Direct
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MetroScheme", "MetroScheme\MetroScheme.csproj", "{F4DAF003-34CF-4901-914A-66F9F75B7B93}"
 EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Documentations", "Documentations", "{C6CA9D71-8292-4F4F-95F5-213690EE4453}"
+	ProjectSection(SolutionItems) = preProject
+		Documentations\About.docx = Documentations\About.docx
+	EndProjectSection
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Scripts", "Scripts", "{EEDE32BC-5CC7-4F4C-B2CA-5F81E886A1C1}"
+	ProjectSection(SolutionItems) = preProject
+		Scripts\CreateDB.sql = Scripts\CreateDB.sql
+		Scripts\Script.sql = Scripts\Script.sql
+	EndProjectSection
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
