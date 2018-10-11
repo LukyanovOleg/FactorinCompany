@@ -1,0 +1,9 @@
+C:\Deploy\!My\VS_2017\Factorin_Solution\DirectoryObserver\bin\Debug\DirectoryObserver.exe.config
+C:\Deploy\!My\VS_2017\Factorin_Solution\DirectoryObserver\bin\Debug\DirectoryObserver.exe
+C:\Deploy\!My\VS_2017\Factorin_Solution\DirectoryObserver\bin\Debug\DirectoryObserver.pdb
+C:\Deploy\!My\VS_2017\Factorin_Solution\DirectoryObserver\obj\Debug\DirectoryObserver.csproj.CoreCompileInputs.cache
+C:\Deploy\!My\VS_2017\Factorin_Solution\DirectoryObserver\obj\Debug\DirectoryObserver.exe
+C:\Deploy\!My\VS_2017\Factorin_Solution\DirectoryObserver\obj\Debug\DirectoryObserver.pdb
+C:\Deploy\!My\VS_2017\Factorin_Solution\DirectoryObserver\bin\Debug\HtmlAgilityPack.dll
+C:\Deploy\!My\VS_2017\Factorin_Solution\DirectoryObserver\bin\Debug\HtmlAgilityPack.pdb
+C:\Deploy\!My\VS_2017\Factorin_Solution\DirectoryObserver\bin\Debug\HtmlAgilityPack.xml

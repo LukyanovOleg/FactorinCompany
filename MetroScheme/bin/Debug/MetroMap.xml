@@ -1,0 +1,44 @@
+<?xml version="1.0"?>
+<Root xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Stations>
+    <Station>
+      <Id>1</Id>
+      <Name>Алма-атинская</Name>
+      <PrevStationId xsi:nil="true" />
+      <NextStationId>2</NextStationId>
+    </Station>
+    <Station>
+      <Id>2</Id>
+      <Name>Каширская</Name>
+      <PrevStationId>1</PrevStationId>
+      <NextStationId>3</NextStationId>
+      <Changings>
+        <int>4</int>
+      </Changings>
+    </Station>
+    <Station>
+      <Id>3</Id>
+      <Name>Коломенская</Name>
+      <PrevStationId>2</PrevStationId>
+      <NextStationId>4</NextStationId>
+    </Station>
+    <Station>
+      <Id>4</Id>
+      <Name>Автозаводская</Name>
+      <PrevStationId>3</PrevStationId>
+      <NextStationId xsi:nil="true" />
+    </Station>
+    <Station>
+      <Id>5</Id>
+      <Name>Каширская</Name>
+      <PrevStationId xsi:nil="true" />
+      <NextStationId>6</NextStationId>
+    </Station>
+    <Station>
+      <Id>6</Id>
+      <Name>Варшавская</Name>
+      <PrevStationId>5</PrevStationId>
+      <NextStationId xsi:nil="true" />
+    </Station>
+  </Stations>
+</Root>

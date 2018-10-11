@@ -1,0 +1,7 @@
+C:\Deploy\!My\VS_2017\Factorin_Solution\MetroScheme\bin\Debug\MetroScheme.exe.config
+C:\Deploy\!My\VS_2017\Factorin_Solution\MetroScheme\bin\Debug\MetroScheme.exe
+C:\Deploy\!My\VS_2017\Factorin_Solution\MetroScheme\bin\Debug\MetroScheme.pdb
+C:\Deploy\!My\VS_2017\Factorin_Solution\MetroScheme\obj\Debug\MetroScheme.csprojResolveAssemblyReference.cache
+C:\Deploy\!My\VS_2017\Factorin_Solution\MetroScheme\obj\Debug\MetroScheme.csproj.CoreCompileInputs.cache
+C:\Deploy\!My\VS_2017\Factorin_Solution\MetroScheme\obj\Debug\MetroScheme.exe
+C:\Deploy\!My\VS_2017\Factorin_Solution\MetroScheme\obj\Debug\MetroScheme.pdb
